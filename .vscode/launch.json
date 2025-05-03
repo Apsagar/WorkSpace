@@ -1,0 +1,183 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SensorMonitor",
+            "request": "launch",
+            "mainClass": "com.flink.examples.SensorMonitor",
+            "projectName": "FlinkProjects"
+        },
+        {
+            "type": "java",
+            "name": "StreamApi",
+            "request": "launch",
+            "mainClass": "com.flink.examples.StreamApi",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerApi",
+            "request": "launch",
+            "mainClass": "com.flink.examples.ConsumerApi",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "KafkaConsumerExample",
+            "request": "launch",
+            "mainClass": "com.flink.examples.KafkaConsumerExample",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "KafkaProducerExample",
+            "request": "launch",
+            "mainClass": "com.flink.examples.KafkaProducerExample",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "KafkaSourceSinkExample",
+            "request": "launch",
+            "mainClass": "com.flink.examples.KafkaSourceSinkExample",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FromElementsProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FromElementsProgram",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FlinkStreamPipeline",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FlinkStreamPipeline",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "WindowProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WindowProgram",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "KeyedProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.KeyedProgram",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "ReadFile",
+            "request": "launch",
+            "mainClass": "com.flink.examples.ReadFile",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "KeyByExample",
+            "request": "launch",
+            "mainClass": "com.flink.examples.KeyByExample",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FliterSocket",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FliterSocket",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FlatMapSocket",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FlatMapSocket",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "mapSocket",
+            "request": "launch",
+            "mainClass": "com.flink.examples.mapSocket",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "WindowWordCount",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WindowWordCount",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "EvenSocket",
+            "request": "launch",
+            "mainClass": "com.flink.examples.EvenSocket",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "WordCountSocketStream",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WordCountSocketStream",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FlinkKafkaFilterExample",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FlinkKafkaFilterExample",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FliterProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FliterProgram",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "FlatMapProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.FlatMapProgram"
+        },
+        {
+            "type": "java",
+            "name": "MapProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.map",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "WordCount1",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WordCount1",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "WordCountProgram",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WordCount",
+            "projectName": "flink-examples"
+        },
+        {
+            "type": "java",
+            "name": "Run WordCount",
+            "request": "launch",
+            "mainClass": "com.flink.examples.WordCount",
+            "projectName": "flink",
+            "vmArgs": "--add-opens java.base/java.util=ALL-UNNAMED"
+        }
+    ]
+}
